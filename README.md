@@ -24,8 +24,8 @@ This project focuses on two distinct tasks using deep learning techniques:
 The goal is to build and evaluate neural network models to achieve high accuracy for both classification problems.
 
 ## 📊 Datasets
-- **Human Activity Recognition**: The dataset consists of accelerometer readings to classify human activities such as walking, sitting, and running. [Download the dataset here](https://drive.google.com/file/d/1ciwzKIPl1n7otcWQTYVX-j1k3TYmVeGL/view?usp=sharing).
-- **Pneumonia Detection**: The dataset includes grayscale chest X-ray images categorized as either 'Normal' or 'Pneumonia'. [Download the dataset here](https://drive.google.com/file/d/1ciwzKIPl1n7otcWQTYVX-j1k3TYmVeGL/view?usp=sharing).
+- **Human Activity Recognition**: The dataset consists of accelerometer readings to classify human activities such as walking, sitting, and running. [Download the accelerometer_data.csv dataset here](https://drive.google.com/file/d/1ciwzKIPl1n7otcWQTYVX-j1k3TYmVeGL/view?usp=sharing).
+- **Pneumonia Detection**: The dataset includes grayscale chest X-ray images categorized as either 'Normal' or 'Pneumonia'. [Download the dataset parkinson_xray.zip here](https://drive.google.com/file/d/1ciwzKIPl1n7otcWQTYVX-j1k3TYmVeGL/view?usp=sharing).
 
 > 📥 **Note**: Please download the datasets from the provided links and place them in the respective directories.
 
