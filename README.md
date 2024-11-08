@@ -1,6 +1,7 @@
 ---
 
 # Deep Learning Project: Human Activity Recognition & Pneumonia Detection
+By Bryan Eugene
 
 ## 📋 Table of Contents
 1. [Introduction](#introduction)
